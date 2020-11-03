@@ -1,0 +1,8 @@
+kafka:
+  topic: kafka-topic1
+  bootstrap-server: localhost:9092
+
+
+server:
+  port: 8070
+
